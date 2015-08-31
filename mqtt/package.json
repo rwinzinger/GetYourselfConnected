@@ -1,0 +1,9 @@
+{
+  "name": "tessel-demo",
+  "version": "0.1.1",
+  "description": "tessel-demo",
+  "dependencies": {
+    "mqtt": "*",
+    "ambient-attx4": "*"
+  }
+}

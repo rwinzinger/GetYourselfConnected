@@ -1,0 +1,8 @@
+{
+  "name": "tessel-demo",
+  "version": "0.1.1",
+  "description": "tessel-demo",
+  "dependencies": {
+    "climate-si7020": "*"
+  }
+}
